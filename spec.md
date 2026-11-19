@@ -1,0 +1,1 @@
+Quero escrever a spec do meu site pessoal no arquivo spec.md, usando o modelo que vou colar. Me entreviste : faça uma pergunta por vez e, no fim, preencha o arquivo com minhas respostas. Não invente nada que eu não tenha dito.
